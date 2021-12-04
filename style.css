@@ -1,0 +1,37 @@
+    /* ----------------------------------------------------------
+    :: Template Name: Studio - Creative Photography Template
+    :: Author: Colorlib
+    :: Author URL: https://colorlib.com
+    :: Version: 1.0.0
+    :: Created: 31 January 2018
+    :: Last Updated: 31 January 2018
+    ---------------------------------------------------------- */
+
+    /* ============ PLACE YOUR CUSTOM CSS HERE ============ */
+
+    .navbar-brand img {
+    	height: 100px;
+    	width: 100px;
+    }
+
+    .social-info-area {
+    	margin-left: 20px;
+    }
+
+    .social-sidebar-area {
+    	height: 475px;
+    }
+
+    .slide-text {
+    	margin-top: -690px;
+    	margin-left: 60px;
+    }
+
+    .slide-text h2 {
+        font-size: 55px;
+        font-family: Arial;
+    }
+
+    .row p {
+        color: #364166;
+    }
